@@ -40,5 +40,3 @@ ech Stack
 - Google Gemini (LLM)  
 - Streamlit (Frontend)  
 - arXiv API, PubMed  
-
-## Project Structure
