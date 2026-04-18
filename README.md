@@ -32,7 +32,7 @@ System Architecture
 5. LLM Reasoning 
    Uses a language model to analyze retrieved evidence and generate structured output
 
-ech Stack
+Tech Stack
 
 - Python  
 - FastAPI  
