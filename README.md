@@ -1,4 +1,4 @@
-Misinformation Detection System (SciCheck)
+Misinformation Detection System
 
 SciCheck is an AI-powered scientific claim verification system designed to detect and analyze misinformation by validating claims against credible research sources. The system leverages a Retrieval-Augmented Generation (RAG) pipeline to combine information retrieval with large language model reasoning for accurate, evidence-based outputs.
 
